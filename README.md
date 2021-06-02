@@ -1,1 +1,1 @@
-# ArticulatedPCBs
+# Articulated PCBs (aka "Bendy Boards")
